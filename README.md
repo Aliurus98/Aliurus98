@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliurus98
-- 👀 I’m interested in deep learning,computer graphics research
-- 🌱 I’m currently learning tensorflow,pytorch,langchain
-- 💞️ I’m looking to collaborate on any python project
+- 👀 I’m interested in deep learning,computer graphics research,cloud computing
+- 🌱 I’m currently learning pytorch,langchain,devOps,AWS
+- 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me ansumansamal98@gmail.com
 - ⚡ Fun fact: why does life slumber?
 
